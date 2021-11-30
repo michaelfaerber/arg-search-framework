@@ -1,4 +1,4 @@
-# Argument Mining
+# Argument Search Framework
 
 ## Requirements
 python3.7, tensorflow, numpy, pandas, scipy, nltk, seqeval, transformers, scikit-learn, gensim, spacy, bcubed, matplotlib, tensorflow-addons, hdbscan, umap-learn
